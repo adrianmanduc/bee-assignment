@@ -1,0 +1,44 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "baseUrl": "./src",
+        "jsx": "react",
+        "paths": {
+            "@/*": [
+                "./*"
+            ],
+            "@assets/*": [
+                "./assets/*"
+            ],
+            "@components/*": [
+                "./components/*"
+            ],
+            "@constants/*": [
+                "./constants/*"
+            ],
+            "@context/*": [
+                "./context/*"
+            ],
+            "@helpers/*": [
+                "./helpers/*"
+            ],
+            "@hooks/*": [
+                "./hooks/*"
+            ],
+            "@pages/*": [
+                "./pages/*"
+            ],
+            "@services/*": [
+                "./services/*"
+            ],
+            "@styles/*": [
+                "./styles/*"
+            ]
+        }
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*",
+        "build"
+    ]
+}
