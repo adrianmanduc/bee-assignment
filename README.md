@@ -1,6 +1,8 @@
 
 The application is deployed on Netlify, available here - [https://bee-game.netlify.app/](https://bee-game.netlify.app/)
 
+![Screenshot 1](/screenshots/1.png?raw=true "Screenshot 1")
+
 ## Available Scripts
 
 In the project directory, you can run:
