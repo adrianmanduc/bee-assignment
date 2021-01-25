@@ -1,6 +1,17 @@
 
 The application is deployed on Netlify, available here - [https://bee-game.netlify.app/](https://bee-game.netlify.app/)
 
+## Remaining Items / Further Improvements
+
+- [ ] Complete combat logic
+- [ ] Testing
+- [ ] Refactoring & Performance Improvements
+- [ ] Responsive Design
+- [ ] Improve UI (console, animations, colors, layout, decorative elements, custom cursors)
+- [ ] Undo/Redo functionality
+
+## Screenshots
+
 ![Screenshot 1](/screenshots/1.png?raw=true "Screenshot 1")
 ![Screenshot 2](/screenshots/2.png?raw=true "Screenshot 2")
 ![Screenshot 3](/screenshots/3.png?raw=true "Screenshot 3")
